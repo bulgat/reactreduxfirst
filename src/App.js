@@ -10,10 +10,12 @@ function App() {
   const store = createStore(allReducer);
 
   return (
-    <>
-    <Provider store={store}>
-        <WebPage/>
-    </Provider>
+      <>
+          <h2>Redux React</h2>
+          <img src='./desk.png' width='100px' />
+        <Provider store={store}>
+            <WebPage/>
+        </Provider>
     </>
   );
 }
