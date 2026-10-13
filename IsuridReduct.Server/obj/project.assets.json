@@ -21,7 +21,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Microsoft.AspNetCore.SpaProxy/9.0.20": {
+      "Microsoft.AspNetCore.SpaProxy/9.0.21": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -68,10 +68,10 @@
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/9.0.20": {
-      "sha512": "t/n9o7tjb3Gs28cBoOiCPfZTn62FQZjjXdNAFENhRphb3AIFdicvWtjlECKrVjeNickm+DVduM2G9SS/TleOiQ==",
+    "Microsoft.AspNetCore.SpaProxy/9.0.21": {
+      "sha512": "VxihbFiKKLIDYGH+TYkIitscHg6sJdhJEOH940JsKjonAYYVw18YKUpTK9TNSsnMm7sb2EBtGF6Z+ao1DMyygQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/9.0.20",
+      "path": "microsoft.aspnetcore.spaproxy/9.0.21",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -79,7 +79,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.9.0.20.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.9.0.21.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -112,11 +112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\IsuridReduct.Server.csproj",
+      "projectUniqueName": "c:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\IsuridReduct.Server.csproj",
       "projectName": "IsuridReduct.Server",
-      "projectPath": "C:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\IsuridReduct.Server.csproj",
+      "projectPath": "c:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\IsuridReduct.Server.csproj",
       "packagesPath": "C:\\Users\\Pizza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\obj\\",
+      "outputPath": "c:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

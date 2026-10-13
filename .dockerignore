@@ -1,0 +1,17 @@
+# Build artifacts
+**/bin
+**/obj
+**/node_modules
+**/build
+
+# IDE / tooling
+.vs
+.idea
+*.user
+
+# VCS
+.git
+.github
+
+# Misc
+UpgradeLog.htm

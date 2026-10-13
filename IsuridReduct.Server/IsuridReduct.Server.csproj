@@ -16,7 +16,11 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
+  <!-- The esproj is a JavaScript project that Visual Studio builds via its JS project
+       system. When building with the CLI (e.g. in Docker), SkipSpaBuild=true excludes
+       it so MSBuild does not try to run .NET language targets (CoreCompile, etc.) on it.
+       The React bundle is built separately and copied into wwwroot in that case. -->
+  <ItemGroup Condition="'$(SkipSpaBuild)' != 'true'">
     <ProjectReference Include="..\isuridreduct.client\isuridreduct.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>

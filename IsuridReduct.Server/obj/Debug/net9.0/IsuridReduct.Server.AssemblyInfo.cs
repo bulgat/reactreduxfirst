@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsuridReduct.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eddd7cb5d2914b9111f13d080c7763904af9a08c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f60a14ed57cd14cfb41bbcdbe8bd368ed31b3f35")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsuridReduct.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsuridReduct.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,7 @@
   "projectFilePath": "C:\\Users\\Pizza\\Documents\\GitHub\\reactreduxfirst\\IsuridReduct.Server\\IsuridReduct.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pizza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
-    "C:\\Users\\Pizza\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.20\\microsoft.aspnetcore.spaproxy.9.0.20.nupkg.sha512",
+    "C:\\Users\\Pizza\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.21\\microsoft.aspnetcore.spaproxy.9.0.21.nupkg.sha512",
     "C:\\Users\\Pizza\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
