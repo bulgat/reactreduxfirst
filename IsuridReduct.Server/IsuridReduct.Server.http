@@ -1,0 +1,6 @@
+@IsuridReduct.Server_HostAddress = http://localhost:5262
+
+GET {{IsuridReduct.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
